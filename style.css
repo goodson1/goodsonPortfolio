@@ -1006,6 +1006,13 @@ section{
     opacity: 0;
     transition: all 0.3s ease;
   }
+.card .info .email {
+  word-break: break-all;
+  overflow-wrap: break-word;
+  text-align: center;
+  display: block;
+}
+
 
 
 
